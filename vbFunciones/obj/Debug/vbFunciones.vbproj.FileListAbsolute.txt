@@ -1,0 +1,10 @@
+C:\Users\Antxon\source\repos\vbFunciones\vbFunciones\bin\Debug\vbFunciones.exe.config
+C:\Users\Antxon\source\repos\vbFunciones\vbFunciones\bin\Debug\vbFunciones.exe
+C:\Users\Antxon\source\repos\vbFunciones\vbFunciones\bin\Debug\vbFunciones.pdb
+C:\Users\Antxon\source\repos\vbFunciones\vbFunciones\bin\Debug\vbFunciones.xml
+C:\Users\Antxon\source\repos\vbFunciones\vbFunciones\obj\Debug\vbFunciones.Resources.resources
+C:\Users\Antxon\source\repos\vbFunciones\vbFunciones\obj\Debug\vbFunciones.vbproj.GenerateResource.cache
+C:\Users\Antxon\source\repos\vbFunciones\vbFunciones\obj\Debug\vbFunciones.exe
+C:\Users\Antxon\source\repos\vbFunciones\vbFunciones\obj\Debug\vbFunciones.xml
+C:\Users\Antxon\source\repos\vbFunciones\vbFunciones\obj\Debug\vbFunciones.pdb
+C:\Users\Antxon\source\repos\vbFunciones\vbFunciones\obj\Debug\vbFunciones.vbprojAssemblyReference.cache
